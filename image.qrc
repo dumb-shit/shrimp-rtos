@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>tds.jpg</file>
+        <file>tem.png</file>
+        <file>tur.png</file>
+        <file>pH.png</file>
+    </qresource>
+</RCC>
