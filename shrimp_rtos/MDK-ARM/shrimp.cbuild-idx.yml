@@ -1,0 +1,15 @@
+build-idx:
+  generated-by: csolution version 2.6.0
+  csolution: shrimp.csolution.yml
+  tmpdir: tmp
+  cprojects:
+    - cproject: shrimp.cproject.yml
+  cbuilds:
+    - cbuild: shrimp+shrimp.cbuild.yml
+      project: shrimp
+      configuration: +shrimp
+      messages:
+        info:
+          - shrimp.cbuild-set.yml - file is already up-to-date
+          - shrimp.cbuild-pack.yml - file is already up-to-date
+          - shrimp+shrimp.cbuild.yml - file is already up-to-date

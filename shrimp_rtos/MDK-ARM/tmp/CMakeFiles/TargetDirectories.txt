@@ -1,0 +1,6 @@
+E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/CMakeFiles/shrimp+shrimp.dir
+E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/CMakeFiles/shrimp+shrimp-build.dir
+E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/CMakeFiles/shrimp+shrimp-configure.dir
+E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/CMakeFiles/shrimp+shrimp-database.dir
+E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/CMakeFiles/edit_cache.dir
+E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/CMakeFiles/rebuild_cache.dir

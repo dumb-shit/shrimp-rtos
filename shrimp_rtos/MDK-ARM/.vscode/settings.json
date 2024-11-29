@@ -1,0 +1,22 @@
+{
+    "clangd.arguments": [
+        "--compile-commands-dir=e:\\project\\shrimp-rtos\\shrimp_rtos\\MDK-ARM\\out\\shrimp\\shrimp"
+    ],
+    "cmsis-csolution.actions": [
+        {
+            "path": "shrimp.csolution.yml",
+            "target": "shrimp",
+            "config": {
+                "run": "Flash Device"
+            },
+            "projects": [
+                {
+                    "path": "shrimp.cproject.yml",
+                    "config": {
+                        "run": "Flash Device"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+# ninja log v6
+56	126	7545594854977586	shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-mkdir	52eadd1e71957c0e
+56	126	7545594854977586	E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-mkdir	52eadd1e71957c0e
+49	146	7545803999036629	E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/out/shrimp/shrimp/shrimp.axf	433b04b3d5530261
+127	170	7545594855397609	E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-download	3d789bb339e361e5
+211	254	7545594856252924	shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-patch	3b3128bed0be76fe
+127	170	7545594855397609	shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-download	3d789bb339e361e5
+178	229	7545804000791878	shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-test	878f3a69d596a38f
+170	211	7545594855822923	shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-update	4c93e5de499e0cc7
+170	211	7545594855822923	E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-update	4c93e5de499e0cc7
+229	300	7545804001502278	shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-done	e250b0cad323b87
+211	254	7545594856252924	E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-patch	3b3128bed0be76fe
+254	5304	7545594906751934	shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-configure	8668ceb54bdb99b5
+254	5304	7545594906751934	E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-configure	8668ceb54bdb99b5
+65	289	7545827374331443	shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-database	ade10e2776f39b79
+65	289	7545827374331443	E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-database	ade10e2776f39b79
+49	146	7545803999036629	shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-build	433b04b3d5530261
+49	146	7545803999036629	E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-build	433b04b3d5530261
+146	178	7545804000000873	shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-install	8a498104fa330815
+146	178	7545804000000873	E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-install	8a498104fa330815
+178	229	7545804000791878	E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-test	878f3a69d596a38f
+229	300	7545804001502278	CMakeFiles/shrimp+shrimp-complete	e250b0cad323b87
+229	300	7545804001502278	E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/CMakeFiles/shrimp+shrimp-complete	e250b0cad323b87
+229	300	7545804001502278	E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-done	e250b0cad323b87
+39	181	7545827382543597	shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-database	ade10e2776f39b79
+39	181	7545827382543597	E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-database	ade10e2776f39b79

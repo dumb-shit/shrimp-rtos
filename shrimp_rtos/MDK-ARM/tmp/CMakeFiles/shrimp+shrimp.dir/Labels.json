@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/CMakeFiles/shrimp+shrimp"
+		},
+		{
+			"file" : "E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/CMakeFiles/shrimp+shrimp.rule"
+		},
+		{
+			"file" : "E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/CMakeFiles/shrimp+shrimp-complete.rule"
+		},
+		{
+			"file" : "E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-build.rule"
+		},
+		{
+			"file" : "E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-configure.rule"
+		},
+		{
+			"file" : "E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-download.rule"
+		},
+		{
+			"file" : "E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-install.rule"
+		},
+		{
+			"file" : "E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-mkdir.rule"
+		},
+		{
+			"file" : "E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-patch.rule"
+		},
+		{
+			"file" : "E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-test.rule"
+		},
+		{
+			"file" : "E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"shrimp+shrimp"
+		],
+		"name" : "shrimp+shrimp"
+	}
+}

@@ -1,0 +1,11 @@
+# Target labels
+ shrimp+shrimp
+# Source files and their labels
+E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/CMakeFiles/shrimp+shrimp-database
+E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/CMakeFiles/shrimp+shrimp-database.rule
+E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-database.rule
+E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-configure.rule
+E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-patch.rule
+E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-update.rule
+E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-download.rule
+E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/shrimp+shrimp/src/shrimp+shrimp-stamp/shrimp+shrimp-mkdir.rule

@@ -1,0 +1,10 @@
+E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/1/CMakeFiles/database.dir
+E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/1/CMakeFiles/shrimp+shrimp.dir
+E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/1/CMakeFiles/Group_Application_MDK-ARM.dir
+E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/1/CMakeFiles/Group_Application_User_Core.dir
+E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/1/CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir
+E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/1/CMakeFiles/Group_Drivers_CMSIS.dir
+E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/1/CMakeFiles/Group_src.dir
+E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/1/CMakeFiles/Group_FreeRTOS.dir
+E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/1/CMakeFiles/edit_cache.dir
+E:/project/shrimp-rtos/shrimp_rtos/MDK-ARM/tmp/1/CMakeFiles/rebuild_cache.dir
